@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a new project ✨✨✨
 <!--
 **kais-chalghoumi/kais-chalghoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>✨If we pull together and commit ourselves, then we can push through anything.✨</h3>
+<h5>✨If we pull together and commit ourselves, then we can push through anything.✨</h5>
 
 — Mona the Octocat
