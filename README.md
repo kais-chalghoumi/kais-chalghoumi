@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
-> ✨If we pull together and commit ourselves, then we can push through anything.✨
+
+✨If we pull together and commit ourselves, then we can push through anything.✨
 
 — Mona the Octocat
