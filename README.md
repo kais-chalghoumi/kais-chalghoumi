@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>✨If we pull together and commit ourselves, then we can push through anything.✨</h1>
+<h3>✨If we pull together and commit ourselves, then we can push through anything.✨</h3>
 
 — Mona the Octocat
