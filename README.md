@@ -1,6 +1,8 @@
 ### Hi there 👋😄
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif">
   
 
 🔭 I’m currently working on a new project ✨✨✨
@@ -19,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>✨If we pull together and commit ourselves, then we can push through anything.✨</h2>
+<h5>✨If we pull together and commit ourselves, then we can push through anything.✨</h5>
 
 — Mona the Octocat
