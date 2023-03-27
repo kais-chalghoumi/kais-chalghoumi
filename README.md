@@ -1,4 +1,7 @@
 ### Hi there 👋😄
+<h2>✨If we pull together and commit ourselves, then we can push through anything.✨</h2>
+— Mona the Octocat
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)">
   <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png">
@@ -21,6 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>✨If we pull together and commit ourselves, then we can push through anything.✨</h2>
 
-— Mona the Octocat
