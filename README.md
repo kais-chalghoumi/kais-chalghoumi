@@ -11,12 +11,12 @@ I'm kais from Tunisia, im a software engineer. I really enjoy learning new techn
 <table style="background-color:#F5F5DC">
 <tr>
 <td>
-<img src="https://github.com/kais-chalghoumi/kais-chalghoumi/blob/main/kais.jpg" width="180"/>
+<a href = "https://www.linkedin.com/in/kais-chalghoumi/"><img src="https://github.com/kais-chalghoumi/kais-chalghoumi/blob/main/kais.jpg" width="180"/>
 
 kais chalghoumi
 
 <p align="center">
-<a href = "https://www.linkedin.com/in/kais-chalghoumi/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
+<img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36" height="36"/></a>
 </p>
 </td>
 </tr> 
