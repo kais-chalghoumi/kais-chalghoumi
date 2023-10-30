@@ -4,7 +4,7 @@
 I'm kais from Tunisia, im a software engineer. I really enjoy learning new technologies and languages.
 
 - 🔭 I’m currently working on a new project 
-- 🌱 I’m currently learning DevOps and Django
+- 🌱 I’m currently learning DevOps
 
 ## You can check my LinkedIn from here : 
 
