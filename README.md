@@ -4,6 +4,6 @@
 <br>
 
 
-I'm a Software Engineer from Tunis , Tunisia. I specialize in the design and development of software solutions.
-In my spare time, I love making beautiful software solutions. Check out some of the things I've made on **[my portfolio](https://kais-chalghoumi.vercel.app)**.
+I'm a Software Engineer from Tunis , Tunisia. I specialize in the design and development of software solutions.<br>
+In my spare time, I love making beautiful software solutions. Check out some of the things I've made on **[my portfolio](https://kais-chalghoumi.vercel.app)**.<br>
 Think we can make something great together? Let's talk over email **[my LinkedIn](https://www.linkedin.com/in/kais-chalghoumi/)** OR **[my Email](kais.chalghoumi@gmail.com)**.
