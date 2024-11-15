@@ -1,5 +1,5 @@
 <a href="https://kais-chalghoumi.vercel.app">
-<img src="./images/banner.jpg" alt="Hey, I'm Kais">
+<img src="./images/banner_cover.jpg" alt="Hey, I'm Kais">
 </a>
 <br><br><br>
 
